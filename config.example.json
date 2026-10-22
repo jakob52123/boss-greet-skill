@@ -1,0 +1,18 @@
+{
+  "city": "101020100",
+  "queries": ["AI产品经理", "大模型产品经理", "AI Agent产品经理", "AIGC产品经理"],
+  "salaryMinK": 20,
+  "titleInclude": "ai|aigc|大模型|智能|agent|llm",
+  "titleMustHave": "产品",
+  "titleExclude": "实习|销售|培训|培养|运营|讲师|助理|兼职",
+  "skipHeadhunter": true,
+  "skipAnonymous": true,
+  "skipOutsourcing": true,
+  "outsourcingPattern": "外包|驻场|派遣|外派|人力资源服务|人力外包",
+  "dailyMax": 100,
+  "runMax": 50,
+  "intervalSec": [20, 40],
+  "browseEvery": 8,
+  "scrollRounds": 10,
+  "dryRun": false
+}
